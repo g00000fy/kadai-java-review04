@@ -2,10 +2,10 @@ package animal;
 
 public class Human extends Animal implements Thinkable {
 
-	// フィールド
+	//フィールド
 	private String hobby;
 
-	// getter
+	//getter
 	public String gethobby() {
 		return hobby;
 	}
